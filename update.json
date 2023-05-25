@@ -1,10 +1,10 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Maintenance Notice",
-  "Description": "We'll be right back! Thank You!",
-  "MainTextButton": "Ok",
+  "Title": "Update Available",
+  "Description": "Added upcoming skins",
+  "MainTextButton": "Update Now",
   "Cancelable": "false",
   "CancelButtonText": "Cancel",
-  "DownloadLink": "https://youtu.be/jbQavVP-oas",
-  "Version": "1.25"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.warlitotools2023.phcare",
+  "Version": "1.26"
 }
